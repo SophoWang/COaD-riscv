@@ -1,0 +1,2 @@
+../testbench/tb_top.v
+../rtl/RISCVCPU-ignoring-branch-and-data-hazards.v
